@@ -1,5 +1,7 @@
 # 通話/面試輔助 AI
 
+![image](https://github.com/user-attachments/assets/e3fd7156-8922-4a89-9911-10f572b47d1b)
+
 一個智能通話助手，在重要通話或面試時為您提供即時回應建議。
 
 ## 專案簡介
@@ -63,13 +65,13 @@ pip install faster-whisper
    - 使用device.py查看要在main.py輸入的虛擬音效
 
 3. **配置/執行程式**
-   ```python
-   # 在main.py修改相關內容
+   python
+   # 在main.py修改相關內容後 執行main.py
    PERPLEXITY_API_KEY = "your_perplexity_api_key"
    GEMINI_API_KEY = "your_gemini_api_key"
    mic1_device_id = 虛擬音效1  # 應徵者
    mic2_device_id = 虛擬音效2  # 面試官	
-   ```
+   
 
 
 ## 使用方法
