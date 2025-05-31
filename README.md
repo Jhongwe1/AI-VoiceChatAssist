@@ -1,12 +1,12 @@
 # 通話/面試輔助 AI
 
-![image](https://github.com/user-attachments/assets/e3fd7156-8922-4a89-9911-10f572b47d1b)
-
 一個智能通話助手，在重要通話或面試時為您提供即時回應建議。
 
 ## 專案簡介
 
 這是一個能夠在通話過程中提供即時輔助的 AI 工具。當您在進行面試、商務談話或其他重要對話時，本工具能夠監聽通話內容並提供適當的回應建議，讓您在對話中更加自信和流暢。
+
+![image](https://github.com/user-attachments/assets/e3fd7156-8922-4a89-9911-10f572b47d1b)
 
 ## 主要功能
 
