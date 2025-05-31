@@ -6,7 +6,7 @@
 
 這是一個能夠在通話過程中提供即時輔助的 AI 工具。當您在進行面試、商務談話或其他重要對話時，本工具能夠監聽通話內容並提供適當的回應建議，讓您在對話中更加自信和流暢。
 
-![image](https://github.com/user-attachments/assets/e3fd7156-8922-4a89-9911-10f572b47d1b)
+![image](https://github.com/user-attachments/assets/7c37f8ec-bd91-42ee-be07-219d6df56ef1)
 
 ## 主要功能
 
