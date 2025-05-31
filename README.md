@@ -65,12 +65,12 @@ pip install faster-whisper
    - 使用device.py查看要在main.py輸入的虛擬音效
 
 3. **配置/執行程式**
-   python
-   在main.py修改相關內容後 執行main.py
-   PERPLEXITY_API_KEY = "your_perplexity_api_key"
-   GEMINI_API_KEY = "your_gemini_api_key"
-   mic1_device_id = 虛擬音效1  # 應徵者
-   mic2_device_id = 虛擬音效2  # 面試官	
+   - python
+   - 在main.py修改相關內容後 執行main.py
+   - PERPLEXITY_API_KEY = "your_perplexity_api_key"
+   - GEMINI_API_KEY = "your_gemini_api_key"
+   - mic1_device_id = 虛擬音效1  # 應徵者
+   - mic2_device_id = 虛擬音效2  # 面試官	
    
 
 
