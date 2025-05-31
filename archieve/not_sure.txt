@@ -1,0 +1,8 @@
+| 功能        | 工具建議                                        | 備註                  |
+| --------- | ------------------------------------------- | ------------------- |
+| 🎧 虛擬音訊裝置 | **VB-Audio Cable** / **VoiceMeeter Banana** | Windows 可分離對方與自己聲音  |
+| 🔊 音訊錄製   | `sounddevice`, `pyaudio`, `ffmpeg`          | 兩路錄音分軌              |
+| 🧠 語音轉文字  | `Whisper` / `faster-whisper`                | 可用 GPU/CPU，本地也可運行   |
+| 🧭 語者分離   | 基於音軌 / 時間戳標記                                | 自己聲音用麥克風軌道，對方來自虛擬音訊 |
+| 🤖 回應建議   | `openai` GPT API / 本地 LLM（如 llama.cpp）      | 視性能決定用雲端或本地         |
+| 🖥️ UI 顯示 | Tkinter / PyQt / Streamlit / Electron       | 可以按需求選擇前端架構         |

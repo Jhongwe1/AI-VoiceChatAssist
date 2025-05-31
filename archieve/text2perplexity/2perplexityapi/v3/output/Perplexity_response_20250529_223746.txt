@@ -1,0 +1,14 @@
+Input Source: Dynamic Input
+API: Perplexity
+Response:
+要測試你的程式，可以使用以下幾種方法：
+
+1. **使用 `console.log()`**: 最基本的測試方法，使用 `console.log()` 來觀察程式的執行狀態，並嘗試一些邊際案例（edge case）來檢測錯誤情況[1]。
+
+2. **單元測試 (Unit Testing)**: 將程式碼分解為小單元，使用框架如 Jest 或 Cucumber.js，執行特定邏輯的測試。例如，使用 Cucumber.js 撰寫功能測試，用特定的場景來描述程式邏輯並驗證結果[3]。
+
+3. **UI 測試 (UI Testing)**: 在 Android 應用程式中，可以使用 Espresso 或 Jetpack Compose UI 測試框架來測試 UI 元素的交互效果[2]。
+
+4. **自動化手動測試**: 使用程式來自動化手動測試流程，每次產品上線前，讓程式自動跑一次完整的測試，避免重複繁瑣的工作[5]。
+
+這些方法可以幫助你驗證你的程式是否正確運作，並且提升程式碼的穩定性和可靠性。
